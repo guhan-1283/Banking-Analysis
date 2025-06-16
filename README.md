@@ -25,11 +25,6 @@ Python libraries (install via pip):pip install pandas numpy matplotlib seaborn m
 
 Installation
 
-Clone the repository:git clone https://github.com/your-username/banking-risk-analytics.git
-
-
-Navigate to the project directory:cd banking-risk-analytics
-
 
 Install required Python libraries:pip install -r requirements.txt
 
